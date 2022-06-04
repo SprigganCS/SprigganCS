@@ -1,5 +1,5 @@
 [![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm André Medeiros</h1>
+<h1 align="center">Hi 👋🏻, I'm André Medeiros</h1>
 <h3 align="center">A CS student from Brazil</h3>
 
 
