@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm André Medeiros</h1>
 <h3 align="center">A CS student from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/8ZDLU43omvcAAAAC/kid-thumbs-up.gif)">
+
 
 
 
