@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm André Medeiros</h1>
 <h3 align="center">A CS student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media2.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b76116713cdb3cbdff33870bdd252b624abd734330cbc&rid=giphy.gif&ct=g)"
