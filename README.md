@@ -1,19 +1,20 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm André Medeiros</h1>
 <h3 align="center">A CS student from Brazil</h3>
-<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media2.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b76116713cdb3cbdff33870bdd252b624abd734330cbc&rid=giphy.gif&ct=g)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spriggancs&label=Profile%20views&color=0e75b6&style=flat" alt="spriggancs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/andrenmed" target="blank"><img src="https://img.shields.io/twitter/follow/andrenmed?logo=twitter&style=for-the-badge" alt="andrenmed" /></a> </p>
 
-- 🌱 I’m currently learning **Web development, UI/UX, Image processing**
+- 🌱 I’m currently learning **Web development, UI/UX, Image processing, AI, Python**
 
 - 📫 How to reach me **andrenmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andrenmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrenmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andré-neves-medeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-neves-medeiros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andre-neves-medeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-neves-medeiros" height="30" width="40" /></a>
 <a href="https://instagram.com/andrenmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrenmed" height="30" width="40" /></a>
 </p>
 
@@ -23,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spriggancs&show_icons=true&locale=en&layout=compact" alt="spriggancs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spriggancs&show_icons=true&locale=en" alt="spriggancs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spriggancs&" alt="spriggancs" /></p>
