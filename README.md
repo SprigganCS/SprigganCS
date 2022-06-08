@@ -28,7 +28,7 @@
 <div align="center">
   <p><img height="200em" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=spriggancs&show_icons=true&locale=en&layout=compact" alt="spriggancs" /></p>
 
-  <p>&nbsp;<img align="center" height="2000em"src="https://github-readme-stats.vercel.app/api?username=spriggancs&show_icons=true&locale=en" alt="spriggancs" /></p>
+  <p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=spriggancs&show_icons=true&locale=en" alt="spriggancs" /></p>
 
   <p><img align="center" height="140em" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=spriggancs&" alt="spriggancs" /></p>
   
