@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/andrenmed" target="blank"><img src="https://img.shields.io/twitter/follow/andrenmed?logo=twitter&style=for-the-badge" alt="andrenmed" /></a> </p>
 
-- 🌱 I’m currently learning **Web development, UI/UX, Image processing, AI, Python**
+- 🌱 I’m currently learning **Web development, UI/UX, Image processing, AI, Python and Neural Networks**
 
 - 📫 How to reach me **andrenmed@gmail.com**
 
