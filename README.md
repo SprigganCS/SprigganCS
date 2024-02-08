@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
+[![MasterHead]([https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif](https://steamuserimages-a.akamaihd.net/ugc/795365490129287872/9A92E292728E4B34F7384FB39AED46D83386FD96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))](https://rishavchanda.io)
 <h1 align="center">Hi 👋🏻, I'm André Medeiros</h1>
 <h3 align="center">A CS student from Brazil</h3>
 
