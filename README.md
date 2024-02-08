@@ -81,9 +81,7 @@
 Where it all began. Where I wrote my first line of code. \
 This is where my journey in the world of CS started, laying the foundation for my passion and skills.
 
-
-
-[<img align="left" height="94px" width="94px" style="margin-right: 10px; margin-top: 10px;" alt="DietSmart" src="https://play-lh.googleusercontent.com/Kvel1pPd7HZ0NIHMODUdSmnyoucmijfwIDFumDj-ZFatNOr5kf7gijpKPUH-ZKA0YMU"/>](https://www.dietsmart.com.br/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px; margin-top: 20px;" alt="DietSmart" src="https://play-lh.googleusercontent.com/Kvel1pPd7HZ0NIHMODUdSmnyoucmijfwIDFumDj-ZFatNOr5kf7gijpKPUH-ZKA0YMU"/>](https://www.dietsmart.com.br/)
 **Full Stack Developer** \
 [**DietSmart**](https://www.dietsmart.com.br/) • 2x Internship (03/2023 - 12/2023) \
 Skills: `Java` `React Native` `SQLite`  \
@@ -101,7 +99,7 @@ Responsabilities: Resolved critical issues in Coca-Cola systems, ensuring offlin
 Skills: `React` `Bootstrap` `Node/Express` `MySQL`   \
 Responsabilities: Engineered a tailored web-based ERP system to meet client requirements, employing JavaScript for development.
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="https://static.vecteezy.com/system/resources/previews/004/576/147/original/research-paper-line-icon-vector.jpg"/>](https://www.linkedin.com/company/8bits-company)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="article" src="https://static.vecteezy.com/system/resources/previews/004/576/147/original/research-paper-line-icon-vector.jpg"/>](https://publicacoes.unifal-mg.edu.br/revistas/index.php/sigmae)
 **Published an Article** \
 [**Sigmae Journal**](https://publicacoes.unifal-mg.edu.br/revistas/index.php/sigmae/) • Submitted on 12/2023 \
 Title: "Computational Tool to Aid in the Interpretation of Laboratory Tests   \
