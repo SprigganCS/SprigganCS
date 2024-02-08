@@ -123,4 +123,4 @@ About: Addressing challenges in interpreting biochemical lab tests, the innovati
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrenmed)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrenmed@gmail.com)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spriggancs&label=Profile%20views&color=0e75b6&style=for-the-badge	" alt="spriggancs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spriggancs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="spriggancs" /> </p>
