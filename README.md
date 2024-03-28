@@ -75,9 +75,9 @@
 
 ## Academic and Professional Background:
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="UFSCar" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logomarca_UFSCAR.png"/>](https://www2.ufscar.br/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="UFSCar" src="https://imgur.com/a/NyC8gFN"/>](https://www2.ufscar.br/)
 **Master's in Computer Science** \
-[**Universidade Federal de São Carlos (UFSCar)**](https://www2.ufscar.br/) • Expected graduation in 2025 \
+[**Universidade Federal de São Carlos (UFSCar)**](https://www.ufscar.br/) • Ongoing \
 Research Area: Machine Learning and Natural Language Processing \
 
 <br> <!-- Add line break -->
