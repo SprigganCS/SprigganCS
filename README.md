@@ -75,6 +75,13 @@
 
 ## Academic and Professional Background:
 
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="UFSCar" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logomarca_UFSCAR.png"/>](https://www2.ufscar.br/)
+**Master's in Computer Science** \
+[**Universidade Federal de São Carlos (UFSCar)**](https://www2.ufscar.br/) • Expected graduation in 2025 \
+Research Area: Machine Learning and Natural Language Processing \
+
+<br> <!-- Add line break -->
+
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Unifal" src="https://images.zeno.fm/SrsjRl8LoLQzB2yhm-Yb6v0F0Z9JND51S6VbUSI7WkU/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZlMTJiZjdjLTU2MWItNGViYy1iYWM0LTY0OTcyNDVkMmI2Zi9pbWFnZS8_dXBkYXRlZD0xNjg2NjY2ODYyMDAw.webp"/>](https://www.unifal-mg.edu.br/portal/index/)
 **Bachelor of Science in Computer Science** \
 [**Universidade Federal de Alfenas**](https://www.unifal-mg.edu.br/portal/index/)  • Graduated in 4 years (2020-2023)\
