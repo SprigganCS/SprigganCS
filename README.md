@@ -75,7 +75,7 @@
 
 ## Academic and Professional Background:
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="UFSCar" src="[https://imgur.com/a/NyC8gFN](https://i.imgur.com/YCdY38u.jpeg)"/>](https://www2.ufscar.br/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="UFSCar" src="https://i.imgur.com/YCdY38u.jpeg"/>](https://www2.ufscar.br/)
 **Master's in Computer Science** \
 [**Universidade Federal de São Carlos (UFSCar)**](https://www.ufscar.br/) • Ongoing \
 Research Area: Machine Learning and Natural Language Processing \
