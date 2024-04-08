@@ -106,7 +106,7 @@ Responsibilities: Resolved critical issues in Coca-Cola systems, ensuring offlin
 
 <br> <!-- Add line break -->
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="https://media.licdn.com/dms/image/D4D0BAQEQS5PMPQioyQ/company-logo_400_400/0/1686665909506?e=1712188800&v=beta&t=RagiAlSJ8ENUt0wm5SlB-PtaQYS5vY6LHjxAkGtt9JE"/>](https://www.linkedin.com/company/8bits-company)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="https://media.licdn.com/dms/image/D4D0BAQEQS5PMPQioyQ/company-logo_400_400/0/1686665909506?e=2147483647&v=beta&t=FJd0ZSHnqOwzqr1td2hMCTSbwP364G07kSCJe0joSbg"/>](https://www.linkedin.com/company/8bits-company)
 **Full Stack Web Developer** \
 [**8Bits Company**](https://www.linkedin.com/company/8bits-company) • Temporary (04/2023 - 07/2023) \
 Skills: `React` `Bootstrap` `Node/Express` `MySQL`   \
