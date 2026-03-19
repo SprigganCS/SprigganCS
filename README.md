@@ -98,10 +98,10 @@ Responsibilities: Handled the automation of emails using Java and later spearhea
 
 <br> <!-- Add line break -->
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px; margin-top: 10px;" alt="Coca-Cola FEMSA" src="https://raichu-uploads.s3.amazonaws.com/logo_coca-cola-femsa-brasil_otOZxW.png"/>](https://coca-cola-femsa.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px; margin-top: 10px;" alt="Coca-Cola FEMSA" src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/3379635/regular_433da08406e0c3283b6e5427abdc2c3c.png"/>](https://coca-cola-femsa.com.br)
 **Mobile Developer** \
 [**Coca-Cola FEMSA**](https://coca-cola-femsa.com.br) • Temporary (03/2023 - 05/2023) \
-Skills: `React Native` `SQLite`   \
+Skills: `React Native` `SQLite` \
 Responsibilities: Resolved critical issues in Coca-Cola systems, ensuring offline units access. Developed a mobile application with React Native and SQLite, collaborating on innovative solutions, working as third party.
 
 <br> <!-- Add line break -->
