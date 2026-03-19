@@ -98,7 +98,7 @@ Responsibilities: Handled the automation of emails using Java and later spearhea
 
 <br> <!-- Add line break -->
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="[https://media.licdn.com/dms/image/D560BAQGj-XAayZWHtw/company-logo_200_200/0/1704102905671/coca_cola_femsa_logo?e=2147483647&v=beta&t=6fh_uUzJ3cWi-NcYYP0Hcd7hbS9Nl_nEGbS-m74Uzqk](https://upload.wikimedia.org/wikipedia/commons/b/b1/Coca-Cola_Femsa_Logo.png)"/>](https://https://coca-cola-femsa.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px; margin-top: 10px;" alt="Coca-Cola FEMSA" src="https://raichu-uploads.s3.amazonaws.com/logo_coca-cola-femsa-brasil_otOZxW.png"/>](https://coca-cola-femsa.com.br)
 **Mobile Developer** \
 [**Coca-Cola FEMSA**](https://coca-cola-femsa.com.br) • Temporary (03/2023 - 05/2023) \
 Skills: `React Native` `SQLite`   \
@@ -106,7 +106,7 @@ Responsibilities: Resolved critical issues in Coca-Cola systems, ensuring offlin
 
 <br> <!-- Add line break -->
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="https://media.licdn.com/dms/image/D4D0BAQEQS5PMPQioyQ/company-logo_400_400/0/1686665909506?e=2147483647&v=beta&t=FJd0ZSHnqOwzqr1td2hMCTSbwP364G07kSCJe0joSbg"/>](https://www.linkedin.com/company/8bits-company)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8Bits Company" src="https://media.licdn.com/dms/image/v2/D4D0BAQFX6MRPpCBMcw/company-logo_200_200/company-logo_200_200/0/1716240063762/8bitstecnologia_logo?e=2147483647&v=beta&t=HTgJN1L4549YscWidtaGJ9guuqf6nhv8Y5VWmv4SEEw"/>](https://www.linkedin.com/company/8bits-company)
 **Full Stack Web Developer** \
 [**8Bits Company**](https://www.linkedin.com/company/8bits-company) • Temporary (04/2023 - 07/2023) \
 Skills: `React` `Bootstrap` `Node/Express` `MySQL`   \
