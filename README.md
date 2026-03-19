@@ -98,7 +98,7 @@ Responsibilities: Handled the automation of emails using Java and later spearhea
 
 <br> <!-- Add line break -->
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="https://media.licdn.com/dms/image/D560BAQGj-XAayZWHtw/company-logo_200_200/0/1704102905671/coca_cola_femsa_logo?e=2147483647&v=beta&t=6fh_uUzJ3cWi-NcYYP0Hcd7hbS9Nl_nEGbS-m74Uzqk"/>](https://https://coca-cola-femsa.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="8bits" src="[https://media.licdn.com/dms/image/D560BAQGj-XAayZWHtw/company-logo_200_200/0/1704102905671/coca_cola_femsa_logo?e=2147483647&v=beta&t=6fh_uUzJ3cWi-NcYYP0Hcd7hbS9Nl_nEGbS-m74Uzqk](https://upload.wikimedia.org/wikipedia/commons/b/b1/Coca-Cola_Femsa_Logo.png)"/>](https://https://coca-cola-femsa.com.br)
 **Mobile Developer** \
 [**Coca-Cola FEMSA**](https://coca-cola-femsa.com.br) • Temporary (03/2023 - 05/2023) \
 Skills: `React Native` `SQLite`   \
