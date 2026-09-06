@@ -73,7 +73,7 @@ broader problem rather than the object of it.
 [<img align="left" height="94px" width="94px" alt="UFSCar" src="https://i.imgur.com/YCdY38u.jpeg"/>](https://www.ufscar.br/)
 **Ph.D. in Computer Science** \
 [**Universidade Federal de São Carlos (UFSCar)**](https://www.ufscar.br/) • Ongoing <!-- TODO: add start year --> \
-LaSID — Laboratory supervised by Prof. Dr. Tiago A. Almeida \
+LaSID — Intelligent Systems and Data Science Laboratory \
 Research Area: Unsupervised Domain Adaptation for Object Detection.
 
 <br>
