@@ -74,7 +74,7 @@ broader problem rather than the object of it.
 **Ph.D. in Computer Science** \
 [**Universidade Federal de São Carlos (UFSCar)**](https://www.ufscar.br/) • Ongoing <!-- TODO: add start year --> \
 LaSID — Intelligent Systems and Data Science Laboratory \
-Research Area: Unsupervised Domain Adaptation for Object Detection.
+Research Area: Unsupervised Domain Adaptation.
 
 <br>
 
